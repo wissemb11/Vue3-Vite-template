@@ -1,8 +1,12 @@
 # Vue3-Vite-template
 
+Tutoriel: www.wi-bg.com/wb/tutoriels/vue3/vite/vue3-vite-template
+
 This tutoriel should help get you started developing with WBC-ui3 and Vue 3 in Vite context.
 
 ## 1- Create the ecosystem of WBC (vue3 in vite)
+
+<!--  -->
 
 ```sh
 npm create vite@latest
